@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h5>My name is Jedidiah David, I am a Tech enthusiast with almost a decade of experience in Tech!!
+I am skilled in Cybersecurity with a proficiency in Network security, SOC, Linux Administration, hardware/software maintenance and troubleshooting.</h5>
+<h3>SKILLS AND TOOLS</h3>
+<h5>NETWORKING</h5>i've worked with networking devices such as routers, switches and firewalls. Configurig these devices to ensure network connectivity while securing them.
+implemented security protocols in various topologies designed by me (physical and logical topologies )by configuring networking security protocols such as VLANS,NAT,ACLS,IPSec and Port-security.
+<H5>CYBERSECURITY</H5>I've worked with tools like <strong>wirehsark</strong> to sniff and inspect packets,<strong>>Nmap</strong> to scan and analyse ports,ACls to set up rules to allow or deny network communication, IDS/IPS tools such as suricata, which is set up to detect/ prevent abnormal traffic going into the network.
+configured SSH To encrypt remote access and <strong>fail2ban</strong> to verify authourization.
+I have worked with metasploit framework to test for vulnerabilities in applications,Burpsuite and zap proxy to test for vulnerabilities in web applications such as SQL injection, XSS, CSRF attacks.
+<h5>IT SUPPORT ROLES</h5> 
+Installed and maintained linux and windows operating systems, troubleshooting both hardware and software issues by changing computer components like RAM,SSDS,HARD DRIVES and driving systems properly.worked at fixing basic printr issues and perfroming preventive practices on Hardware computers.
